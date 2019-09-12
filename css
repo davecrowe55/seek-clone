@@ -1,0 +1,241 @@
+#seek {
+	width: 15%;
+	margin-left: 150px;
+}
+
+#padle {
+	width: 450px;
+	position: relative;
+float: right;
+padding-left: 40px;}
+
+#seekbar {
+	color: white;
+	background-color: white;
+}
+.nav-link {
+	padding-bottom: 26px; 
+}
+#ul { 
+ background-color: green ;
+    width:19px;
+     display: inline-block;
+    float: center;
+font-size: 4px;
+ 
+ }
+#yellow-search {
+      position: relative;
+    margin-top: -10px;
+    z-index: 1000;
+
+}
+
+ul.nav-tabs{
+  margin-bottom: 0;
+}
+ ul.nav-tabs, 
+ ul.nav-tabs li.active {
+border: none;
+ }
+ ul.nav-tabs li {
+  padding: 5px;
+  padding-bottom:0;
+  height: 50px;
+ } 
+
+  li {
+    display: inline-block;
+    float: center;
+    font-size: 13px;
+    font-style: bold;
+    width: auto;
+  float: center;
+  padding: 0px;
+  border: none;
+}
+
+ul.nav-tabs li p {
+  margin: 0px;
+}
+
+#ul2 {
+   font-size: 20px;
+   text-align:right;
+   float: right;
+   padding top: 10px;
+   margin-top: 20px;
+}
+
+li:hover {
+    background-color: white;
+}
+
+#li1: {
+  color: pink;}
+
+  #jobs {
+  	width: 30%;
+  	text-decoration-color: white;
+  	font-size: 20px;
+  	text-align: center;
+  	
+  }
+
+  #logo {
+  	width: 15%;
+  	height: 50%;
+  	float: middle;
+  }
+
+  #button {
+  	background-color: #e60278;
+  	font-size: 20px;
+  	color: white;
+  	border: none;
+  	text-align: center;
+    text-decoration: none;
+    width: 90px;
+  }
+
+  #button:hover {background-color: lightpink}
+
+  #masthead:selected {
+  	text-decoration: underline;
+  }
+
+  #jobsearch {
+  	color: #0d3880;
+  	background-color:#0d3880 ;
+  }
+
+  .nav-tabs li{
+  	color:black;
+  	background-color:lightgrey;
+  }
+
+  .nav-tabs li: hover {
+  	color:black;
+  	background-color:;
+  }
+
+  .nav-tabs li.active{
+  	color:white!important;
+  	  	background-color: #0d3880!important;
+
+  }
+
+  .tab-content .tab-pane{
+  	background-color: #0d3880!important;
+  }
+
+  .nav-tabs .nav-item.show .nav-link, 
+  .nav-tabs .nav-link.active{
+  	background-color: #0d3880!important;
+  	color:white!important;
+  	border:none;
+  }
+
+   .nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+  	border: none;
+  }
+
+  #input {
+  	width: 60%;
+  	margin-left: 270px;
+  	color: red;
+  	list-style-type: none;
+  display: block;
+  }
+
+  #siteheader {
+  	text-align: center;
+  	width: 100%;
+  	height: 100px;
+  	margin-top: 0px;
+  	border-top:;
+  }
+
+  #p1 {
+  	padding-top: 30px;
+  	font-size: 20px;
+  }
+  #p2 {
+padding-bottom: 0px;
+  }
+
+#boatimage {
+	background-color: purple;
+	color: white;
+	font-size: 30px;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	padding-left: 60px;
+
+  }
+
+  #createnow {
+  	background-color: #2765cf;
+  	font-size: 20px;
+  	color: white;
+  	border: none;
+  	text-align: center;
+    text-decoration: none;
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    bottom: 36px;
+
+  }
+
+  #createnow:hover {
+    background-color: lightblue;
+}
+
+
+
+#alignright {
+	float: right, 
+	 
+}
+
+
+
+#siteheader1 {
+	padding-right: 0px;
+	padding-left: 0px;
+	background-color: #0d3880;
+}
+
+.nav-link  {
+	text-align: center; 
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+#quicksearch {
+	font-size: 14px;
+    text-align: left;
+}
+
+#topbar {
+	background-color: white;
+	margin-bottom: 0px;
+}
+
+#myTab {
+	background-color: #0d3880;
+}
+
+#profile-tab {}
